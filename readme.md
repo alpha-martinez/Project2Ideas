@@ -9,7 +9,7 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
+1. creating a note app for users to use. they can log in and create a new category for each note they want to put it in and write down hw notes, class notes, etc. 
 2. 
 3.
 ---------------------------------------------------------
