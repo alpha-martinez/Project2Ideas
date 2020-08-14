@@ -29,7 +29,7 @@ In the space below:
 ### ERD
 
 https://drive.google.com/file/d/1GsKTTubOoE-0IKmVfk1XWuQKU5ZLalxm/view?usp=sharing
-
+or also look in my img folder
 
 ----------------------------------------------------------
 ### User Stories
@@ -45,6 +45,8 @@ User should be able to save their notes (automatically do this)?
 
 ----------------------------------------------------------
 ### Wireframes
+
+I drew out my wireframes. Have it in my img folder 
 
 ----------------------------------------------------------
 
