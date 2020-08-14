@@ -22,14 +22,26 @@ Make a PR when you're done!
 
 In the space below:
 * either embed or link a completed ERD for your approved P2 idea
-* if there are any changes/additions to your user stories, place your full set of revised user stories here
+* if there are any changes/additions to your user stories, place your full set of revised user stories here:
 * either embed or link wireframes for every page of your app
 
 ----------------------------------------------------------
 ### ERD
 
+https://drive.google.com/file/d/1GsKTTubOoE-0IKmVfk1XWuQKU5ZLalxm/view?usp=sharing
+
+
 ----------------------------------------------------------
 ### User Stories
+
+User should be able to sign up for an account
+User should be able to log in and log out
+User should be able to create a note
+User should be able to edit 
+User should be able to categorize their notes
+User should be able delete 
+User should be able to save their notes (automatically do this)?
+
 
 ----------------------------------------------------------
 ### Wireframes
@@ -37,3 +49,6 @@ In the space below:
 ----------------------------------------------------------
 
 Make a PR when you're done!
+
+
+API: https://quilljs.com/
