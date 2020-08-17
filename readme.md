@@ -34,13 +34,13 @@ or also look in my img folder
 ----------------------------------------------------------
 ### User Stories
 
-User should be able to sign up for an account
-User should be able to log in and log out
-User should be able to create a note
-User should be able to edit 
-User should be able to categorize their notes
-User should be able delete 
-User should be able to save their notes (automatically do this)?
+- User should be able to sign up for an account
+- User should be able to log in and log out
+- User should be able to create a note
+- User should be able to edit 
+- User should be able to categorize their notes
+- User should be able delete 
+- User should be able to save their notes (automatically do this)?
 
 
 ----------------------------------------------------------
